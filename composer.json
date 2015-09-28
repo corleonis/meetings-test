@@ -1,0 +1,14 @@
+{
+    "require": {
+        "illuminate/container": "5.1.*",
+        "illuminate/console": "5.1.*",
+        "phpunit/phpunit": "4.8.*",
+        "nesbot/carbon": "~1.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "MediaMath\\": "src/MediaMath"
+        }
+    }
+}
+
